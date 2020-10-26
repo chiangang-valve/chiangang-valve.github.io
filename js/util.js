@@ -69,8 +69,3 @@ $.urlParam = function(name){
 // load nav and footer
 $("#nav-placeholder").load("nav.html");
 $("#footer-placeholder").load("footer.html");
-
-// set title
-$.getJSON('json/title.json', function(data) {
-  setTitle(data.title);
-});
