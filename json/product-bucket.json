@@ -1,0 +1,46 @@
+{
+    "product": [
+        {
+            "figSrc": "fig/bucket/單桶過濾器-2.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/bucket/單桶過濾器-1.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/bucket/單桶過濾器-3.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "",
+            "name": "",
+            "desc": "",
+            "ref": ""
+        },
+        {
+            "figSrc": "fig/bucket/單桶過濾器-4.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/bucket/單桶過濾器-5.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/bucket/單桶過濾器-6.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        }
+    ]
+}

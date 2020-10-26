@@ -1,0 +1,34 @@
+{
+	"title": "千岡閥業有限公司",
+	"header": {
+		"title": "產品中心",
+		"subtitle": "",
+		"ann": "網頁建構中，請耐心等候，謝謝！",
+		"name": "Home",
+        "ref": "index.html"
+	},
+	"sidebar": [
+		{
+			"name": "單桶 (籃式) 過濾器 / BUCKET TYPE STRAINER",
+			"ref": "product.html?type=bucket"
+		},
+		{
+			"name": "Y 型過濾器 / Y STAINER",
+			"ref": "product.html?type=y"
+		},
+		{
+			"name": "觀測器 / SIGHT GLASS",
+			"ref": "product.html?type=sightglass"
+		},
+		{
+			"name": "止回閥 / CHECK VALVE",
+			"ref": "product.html?type=check"
+		}
+	],
+	"fullname": {
+        "bucket": "單桶 (籃式) 過濾器",
+        "y": "Y 型過濾器",
+        "sightglass": "觀測器",
+        "check": "止回閥"
+    }
+}

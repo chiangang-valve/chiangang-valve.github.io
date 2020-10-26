@@ -1,0 +1,70 @@
+{
+    "product": [
+        {
+            "figSrc": "fig/sightglass/觀測器-1.png",
+            "name": "觀測器",
+            "desc": "SIGHT GLASS",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器葉片式.png",
+            "name": "觀測器葉片式",
+            "desc": "SIGHT GLASS FLAPPER TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器空筒式.png",
+            "name": "觀測器空筒式",
+            "desc": "SIGHT GLASS CROSS TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器浮球式.png",
+            "name": "觀測器浮球式",
+            "desc": "SIGHT GLASS BALL TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器旋轉葉片式.png",
+            "name": "觀測器旋轉葉片式",
+            "desc": "SIGHT GLASS PADDLE TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器內襯PTFE.png",
+            "name": "觀測器內襯PTFE",
+            "desc": "SIGHT GLASS PTFE LINING",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器夾套式-2.png",
+            "name": "觀測器夾套式",
+            "desc": "SIGHT GLASS JACKET TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器夾套式-1.png",
+            "name": "觀測器夾套式",
+            "desc": "SIGHT GLASS JACKET TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/玻璃管觀測器-1.png",
+            "name": "玻璃管觀測器",
+            "desc": "SIGHT GLASS LANTERN TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/玻璃管觀測器-2.png",
+            "name": "玻璃管觀測器",
+            "desc": "SIGHT GLASS LANTERN TYPE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/牙口觀測器.png",
+            "name": "牙口觀測器",
+            "desc": "SIGHT GLASS  SCREWED END",
+            "ref": "#"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "product": [
+        {
+            "figSrc": "fig/y/上昇Y型過濾器.png",
+            "name": "上昇 Y 型過濾器",
+            "desc": "RISING TYPE Y STAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/y/不銹鋼Y型過濾器.png",
+            "name": "不銹鋼 Y 型過濾器",
+            "desc": "A351 CF8 Y STAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/y/鑄鋼Y型過濾器.png",
+            "name": "鑄鋼 Y 型過濾器",
+            "desc": "A216 WCB Y STAINER",
+            "ref": "#"
+        }
+    ]
+}
