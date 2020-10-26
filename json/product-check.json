@@ -2,7 +2,7 @@
     "product": [
         {
             "figSrc": "fig/check/止回閥.png",
-            "name": "止回閥",
+            "name": "夾式擺動式止回閥",
             "desc": "SINGLE WAFER TYPE",
             "ref": "#"
         }
