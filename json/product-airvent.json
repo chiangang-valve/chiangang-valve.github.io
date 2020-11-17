@@ -1,0 +1,10 @@
+{
+    "product": [
+        {
+            "figSrc": "fig/airvent/排氣閥.png",
+            "name": "自動排氣閥",
+            "desc": "AIR VENT",
+            "ref": "#"
+        }
+    ]
+}

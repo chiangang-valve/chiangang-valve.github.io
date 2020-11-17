@@ -61,6 +61,12 @@
             "ref": "#"
         },
         {
+            "figSrc": "fig/sightglass/玻璃管觀測器-3.png",
+            "name": "玻璃管觀測器",
+            "desc": "SIGHT GLASS LANTERN TYPE",
+            "ref": "#"
+        },
+        {
             "figSrc": "fig/sightglass/牙口觀測器.png",
             "name": "牙口觀測器",
             "desc": "SIGHT GLASS  SCREWED END",

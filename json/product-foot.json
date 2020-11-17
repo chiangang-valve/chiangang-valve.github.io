@@ -1,0 +1,10 @@
+{
+    "product": [
+        {
+            "figSrc": "fig/foot/底閥.png",
+            "name": "底閥",
+            "desc": "FOOT VALVE",
+            "ref": "#"
+        }
+    ]
+}

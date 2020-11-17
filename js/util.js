@@ -4,7 +4,7 @@ function createHeader(header) {
     <small>${header.subtitle}</small>
   </h1>
 
-  <div class="alert alert-danger" role="alert">${header.ann}</div>
+  <div class="alert alert-danger" role="alert">${header.announce}</div>
   <ol class="breadcrumb">
     <li class="breadcrumb-item">
       <a href="${header.ref}">${header.name}</a>
@@ -39,7 +39,9 @@ function createIntro(intro) {
   </div>
   <div class="col-lg-6">
     <h2>${intro.title}</h2>
-    <p>${intro.desc}</p>
+    <p>${intro.desc1}</p>
+    <p>${intro.desc2}</p>
+    <p>${intro.desc3}</p>
   </div>`
 }
 

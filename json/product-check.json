@@ -1,9 +1,21 @@
 {
     "product": [
         {
-            "figSrc": "fig/check/止回閥.png",
-            "name": "夾式擺動式止回閥",
-            "desc": "SINGLE WAFER TYPE",
+            "figSrc": "fig/check/止回閥-1.png",
+            "name": "夾式單門式止回閥",
+            "desc": "SINGLE WAFER TYPE CHECK VALVE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/check/止回閥-2.png",
+            "name": "擺動式止回閥",
+            "desc": "SWING TYPE CHECK VALVE",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/check/止回閥-3.png",
+            "name": "夾式雙門式止回閥",
+            "desc": "DOUBLE-PLATE WAFER TYPE CHECK VALVE",
             "ref": "#"
         }
     ]

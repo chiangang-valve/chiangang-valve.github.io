@@ -3,7 +3,7 @@
 	"header": {
 		"title": "產品中心",
 		"subtitle": "",
-		"ann": "網頁建構中，請耐心等候，謝謝！",
+		"announce": "網頁建構中，產品將陸續補齊，請耐心等候，謝謝！",
 		"name": "Home",
         "ref": "index.html"
 	},
@@ -17,12 +17,24 @@
 			"ref": "product.html?type=y"
 		},
 		{
+			"name": "過濾器濾網 / SCREEN",
+			"ref": "product.html?type=screen"
+		},
+		{
 			"name": "觀測器 / SIGHT GLASS",
 			"ref": "product.html?type=sightglass"
 		},
 		{
 			"name": "止回閥 / CHECK VALVE",
 			"ref": "product.html?type=check"
+		},
+		{
+			"name": "底閥 / FOOT VALVE",
+			"ref": "product.html?type=foot"
+		},
+		{
+			"name": "排氣閥 / AIR VENT",
+			"ref": "product.html?type=airvent"
 		}
 	],
 	"fullname": {
