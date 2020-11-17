@@ -1,5 +1,3 @@
-
-
 var type = $.urlParam('type');
 if (!type) type = "bucket";
 var fname = `json/product-${type}.json`;

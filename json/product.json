@@ -40,7 +40,10 @@
 	"fullname": {
         "bucket": "單桶 (籃式) 過濾器",
         "y": "Y 型過濾器",
+        "screen": "過濾器濾網",
         "sightglass": "觀測器",
-        "check": "止回閥"
+        "check": "止回閥",
+        "foot": "底閥",
+        "airvent": "排氣閥"
     }
 }
