@@ -31,9 +31,9 @@
             "ref": "#"
         },
         {
-            "figSrc": "fig/sightglass/觀測器內襯PTFE.png",
-            "name": "觀測器內襯PTFE",
-            "desc": "SIGHT GLASS PTFE LINING",
+            "figSrc": "fig/sightglass/觀測器滴落式.png",
+            "name": "觀測器滴落式",
+            "desc": "SIGHT GLASS DRIP TYPE",
             "ref": "#"
         },
         {
@@ -69,7 +69,25 @@
         {
             "figSrc": "fig/sightglass/牙口觀測器.png",
             "name": "牙口觀測器",
-            "desc": "SIGHT GLASS  SCREWED END",
+            "desc": "SIGHT GLASS SCREWED END",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器內襯PTFE.png",
+            "name": "觀測器內襯PTFE",
+            "desc": "SIGHT GLASS PTFE LINING",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器加保護蓋-1.png",
+            "name": "觀測器加保護蓋",
+            "desc": "SIGHT GLASS",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/sightglass/觀測器加保護蓋-2.png",
+            "name": "觀測器加保護蓋",
+            "desc": "SIGHT GLASS",
             "ref": "#"
         }
     ]

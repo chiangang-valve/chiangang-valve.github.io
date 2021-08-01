@@ -19,10 +19,10 @@
             "ref": "#"
         },
         {
-            "figSrc": "",
-            "name": "",
-            "desc": "",
-            "ref": ""
+            "figSrc": "fig/bucket/單桶過濾器-8.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
         },
         {
             "figSrc": "fig/bucket/單桶過濾器-4.png",
@@ -38,6 +38,18 @@
         },
         {
             "figSrc": "fig/bucket/單桶過濾器-6.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/bucket/單桶過濾器-7.png",
+            "name": "單桶過濾器",
+            "desc": "BUCKET TYPE STRAINER",
+            "ref": "#"
+        },
+        {
+            "figSrc": "fig/bucket/單桶過濾器-9.png",
             "name": "單桶過濾器",
             "desc": "BUCKET TYPE STRAINER",
             "ref": "#"

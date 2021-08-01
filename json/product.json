@@ -35,6 +35,10 @@
 		{
 			"name": "排氣閥 / AIR VENT",
 			"ref": "product.html?type=airvent"
+		},
+		{
+			"name": "浮球式液面控制閥 / FLOAT LEVEL CONTROL VALVE",
+			"ref": "product.html?type=float"
 		}
 	],
 	"fullname": {
@@ -44,6 +48,7 @@
         "sightglass": "觀測器",
         "check": "止回閥",
         "foot": "底閥",
-        "airvent": "排氣閥"
+        "airvent": "排氣閥",
+        "float": "浮球式液面控制閥"
     }
 }
